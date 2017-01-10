@@ -1,0 +1,21 @@
+import turtle
+fred = turtle.Pen()
+fred.shape("turtle")
+for i in range (4):
+    fred.forward(100)
+    fred.left(90)
+fred.forward(100)
+fred.color("blue")
+fred.circle(50)
+fred.circle(100)
+fred.circle(-100)
+fred.right(90)
+fred.forward(200)
+fred.left(90)
+fred.color("green")
+fred.down()
+fred.circle(200)
+
+fred.reset()
+fred.speed(0)
+print("turtle")
