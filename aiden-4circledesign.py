@@ -1,7 +1,7 @@
 
 import turtle
 fred = turtle.Pen()
-fred.color("blue")
+fred.color("purple")
 fred.speed(0)
 
 for i in range(50):

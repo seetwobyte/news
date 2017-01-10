@@ -1,5 +1,5 @@
 fred.speed(0)
-fred.color("green")
+fred.color("purple")
 fred.width(5)
 for i in range(100)
     fred.forward(i * 2)
