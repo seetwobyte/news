@@ -3,6 +3,7 @@ import turtle
 fred = turtle.Pen()
 fred.color("purple")
 fred.speed(0)
+fred.width(3)
 
 for i in range(50):
         fred.circle(i * 3)
