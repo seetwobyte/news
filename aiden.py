@@ -18,4 +18,11 @@ fred.circle(200)
 
 fred.reset()
 fred.speed(0)
+fred.forward(100)
+fred.left(90)
+fred.forward(100)
+fred.left(90)
+fred.forward(100)
+fred.width(4)
+
 print("turtle")
