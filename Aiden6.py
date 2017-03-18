@@ -2,7 +2,7 @@ Import turtle
 Import random
 Fred = turtle.Pen()
 fred.width(3)
-fred.speed(2)
+fred.speed(0)
 
 Def square(size)
 	For in range(4)
