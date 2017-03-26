@@ -7,3 +7,4 @@ for i in range(100):
     fred.forward(i*2)
     fred.circle(i*2, 90)
     fred.right(20)
+# please add more files
