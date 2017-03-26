@@ -3,7 +3,7 @@ Import random
 Fred = turtle.Pen()
 fred.width(3)
 fred.speed(0)
-
+# I need to do it over
 Def square(100)
 	For in range(4)
 	fred.forward(size)
