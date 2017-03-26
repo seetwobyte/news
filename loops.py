@@ -8,3 +8,4 @@ for i in range(100):
     fred.circle(i*2, 90)
     fred.right(20)
 # please add more files
+# hurry up man
