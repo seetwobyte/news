@@ -17,7 +17,7 @@ print("Aiden", player_move)
 print("Computer", computer_move)
     if player_move == computer_move:
         print("It's a Tie")
-    elif player_move + computer_move in player_wins
+    elif: player_move + computer_move in player_wins
         print("Aiden wins")
     else:
         print("You lose!!")
