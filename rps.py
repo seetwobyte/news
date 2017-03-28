@@ -1,6 +1,7 @@
 import random
 
 moves = ["r", "p", "s"]
+# R=rock P=papper S=scissors
 player_wins = ["pr","sp", "rs"]
 
 while true:
