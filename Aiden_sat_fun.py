@@ -1,1 +1,2 @@
-import turtle 
+import turtle
+import random
